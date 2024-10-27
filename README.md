@@ -92,10 +92,6 @@ The password for Administrative Functions is *lib*. The admin adds new clerks an
 
 -----
 
-## Contributions Welcome
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
-
-
 ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
 
